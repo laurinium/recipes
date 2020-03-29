@@ -2,10 +2,10 @@
 title: Rezepte
 email: your-email@domain.com
 description: The plain text recipe database for hackers
-baseurl: "https://laurinium.github.io/recipes"
+baseurl: "https://rezepte.laur.me"
 language: "de"
 lang_direction: "ltr"
-color: "#007FFF"
+color: "#ff5800"
 
 
 # Build settings
